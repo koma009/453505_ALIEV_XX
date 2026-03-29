@@ -1,1 +1,2 @@
 STRWEB Test
+Добавлена новая строка в STRWEB
